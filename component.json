@@ -1,0 +1,12 @@
+{
+  "name": "lungo.firefoxos",
+  "description": "Lungo FirefoxOS Theme",
+  "version": "0.1.0",
+  "homepage": "http://lungo.tapquo.com",
+  "author": {
+    "name": "Tapquo S.L.",
+    "site": "http://tapquo.com"},
+  "keywords": [ "mobile", "firefoxos" ],
+  "dependencies": [{ "quojs": "latest" }, { "lungo": "~2.2.0" }],
+  "license": [ {"type": "GPLv3"}, {"type": "Commercial"}]
+}
